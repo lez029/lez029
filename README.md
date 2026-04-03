@@ -1,8 +1,6 @@
 ## Hi, this is Gary Zhang, a current UCSD sophomore undergraduate 👋
 
-<!--
-**lez029/lez029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👤 Gary Zhang
 🎓 UCSD Student  
 💻 Java Developer | Backend Enthusiast  
 🚀 Currently building a Pokémon Battle System  
