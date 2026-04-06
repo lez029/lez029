@@ -9,15 +9,18 @@
 
 ## 🛠 Tech Stack
 **Language**
-- Java 
+- Java / Python / basic C
 - HTML / CSS / basic JavaScript 
 - MySQL / basic php
+- basic R
 
 **Core Concepts**
 - Java OOP
 - Data Structure
 - API Design
 - System & Architecture Design
+- Network Programming (Socket-based client-server communication/TCP/UDP/IP)
+- Multithreading & Concurrency (synchronization/thread management)
 
 **Tools**
 - Git
@@ -25,6 +28,7 @@
 
 **Libraries**
 - Jackson
+- Java Networking (java.net)
 
 ## 📌 Featured Projects
 
@@ -44,6 +48,7 @@
 - System Design
 - Backend Architecture
 - Clean Code
+- Obsidian Markdown Notemaking
 
 ---
 
