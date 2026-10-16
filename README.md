@@ -30,7 +30,7 @@
 ![Network Programming](https://img.shields.io/badge/Network_Programming-334155?style=for-the-badge)
 ![Multithreading & Concurrency](https://img.shields.io/badge/Multithreading_%26_Concurrency-334155?style=for-the-badge)
 
-Socket-based client-server communication (TCP / UDP / IP), synchronization, and thread management.
+Java Socket
 
 **Tools**
 
