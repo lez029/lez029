@@ -29,7 +29,6 @@
 ![System & Architecture Design](https://img.shields.io/badge/System_%26_Architecture_Design-334155?style=for-the-badge)
 ![Network Programming](https://img.shields.io/badge/Network_Programming-334155?style=for-the-badge)
 ![Multithreading & Concurrency](https://img.shields.io/badge/Multithreading_%26_Concurrency-334155?style=for-the-badge)
-
 ![Java Socket](https://img.shields.io/badge/Java_Socket-334155?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Tools**
