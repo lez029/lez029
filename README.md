@@ -11,35 +11,35 @@
 
 **Languages & Database**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C (Basic)](https://img.shields.io/badge/C-Basic-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript (Basic)](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP (Basic)](https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![R (Basic)](https://img.shields.io/badge/R-Basic-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C (Basic)](https://img.shields.io/badge/C-Basic-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript (Basic)](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP (Basic)](https://img.shields.io/badge/PHP-Basic-777BB4?style=flat-square&logo=php&logoColor=white)
+![R (Basic)](https://img.shields.io/badge/R-Basic-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Core Concepts**
 
-![Java OOP](https://img.shields.io/badge/Java_OOP-334155?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-334155?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API_Design-334155?style=for-the-badge)
-![System & Architecture Design](https://img.shields.io/badge/System_%26_Architecture_Design-334155?style=for-the-badge)
-![Network Programming](https://img.shields.io/badge/Network_Programming-334155?style=for-the-badge)
-![Multithreading & Concurrency](https://img.shields.io/badge/Multithreading_%26_Concurrency-334155?style=for-the-badge)
-![Java Socket](https://img.shields.io/badge/Java_Socket-334155?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java OOP](https://img.shields.io/badge/Java_OOP-334155?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-334155?style=flat-square)
+![API Design](https://img.shields.io/badge/API_Design-334155?style=flat-square)
+![System & Architecture Design](https://img.shields.io/badge/System_%26_Architecture_Design-334155?style=flat-square)
+![Network Programming](https://img.shields.io/badge/Network_Programming-334155?style=flat-square)
+![Multithreading & Concurrency](https://img.shields.io/badge/Multithreading_%26_Concurrency-334155?style=flat-square)
+![Java Socket](https://img.shields.io/badge/Java_Socket-334155?style=flat-square&logo=openjdk&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Libraries**
 
-![Jackson](https://img.shields.io/badge/Jackson-2D6A4F?style=for-the-badge)
-![Java Networking](https://img.shields.io/badge/Java_Networking-java.net-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jackson](https://img.shields.io/badge/Jackson-2D6A4F?style=flat-square)
+![Java Networking](https://img.shields.io/badge/Java_Networking-java.net-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ## 📌 Featured Projects
 
